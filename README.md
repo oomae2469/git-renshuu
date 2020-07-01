@@ -24,3 +24,4 @@ Things you may want to cover:
 *...
 # README
 ## how to use GitHub Desktop
+## how to use GitHub revert
