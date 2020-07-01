@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 #READEME
 ## how to rse GitHub Desktop
+how to use git revert
